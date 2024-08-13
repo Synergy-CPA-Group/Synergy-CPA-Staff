@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Using the Remote Server Desktop Application | Synergy CPA Group</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Using the Remote Server Desktop Application</h1>
+        <p>Access and manage client files securely using the remote server desktop application.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="staff-resources.html">Staff Resources</a></li>
+            <li><a href="remote-server-access.html">Remote Server Access</a></li>
+            <li><a href="qount-training.html">Qount Training</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <h2>Setup Instructions</h2>
+        <p>Follow these steps to set up and access the remote server desktop application:</p>
+        <ol>
+            <li>Download and install the remote desktop client software provided by IT.</li>
+            <li>Open the remote desktop client and enter the server address provided by your IT department.</li>
+            <li>Enter your credentials to connect to the server.</li>
+            <li>Once connected, navigate to the file system to access client documents securely.</li>
+            <li>When finished, log out of the remote desktop session to ensure security.</li>
+        </ol>
+    </section>
+
+    <section>
+        <h2>Best Practices</h2>
+        <p>For secure and efficient use of the remote server desktop application:</p>
+        <ul>
+            <li><strong>Always log out after use:</strong> Ensure you log out of the remote server to protect client data.</li>
+            <li><strong>Use strong passwords:</strong> Follow IT guidelines for creating and updating your passwords.</li>
+            <li><strong>Maintain regular backups:</strong> Back up important files to the cloud or an external drive as directed by IT.</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Synergy CPA Group. All rights reserved.</p>
+    </footer>
+</body>
+</html>
