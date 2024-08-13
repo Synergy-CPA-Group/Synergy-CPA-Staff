@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payroll Processor Training | Synergy CPA Group</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Payroll Processor Training</h1>
+        <p>Welcome to the Payroll Processor training module.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="senior-tax-associate.html">Senior Tax Associate Training</a></li>
+            <li><a href="bookkeeper.html">Bookkeeper Training</a></li>
+            <li><a href="accounting-manager.html">Accounting Manager Training</a></li>
+            <li><a href="firm-administrator.html">Firm Administrator Training</a></li>
+            <li><a href="payroll-processor.html">Payroll Processor Training</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <h2>Training Overview</h2>
+        <p>This section provides training on processing payroll, managing employee benefits
