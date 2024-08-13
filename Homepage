@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Synergy CPA Group | Employee Onboarding & Training</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Synergy CPA Group</h1>
+        <p>Your journey starts here!</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="#introduction">Introduction</a></li>
+            <li><a href="junior-tax-preparer.html">Junior Tax Preparer Training</a></li>
+            <li><a href="client-accountant.html">Client Accountant Training</a></li>
+            <li><a href="administrative-assistant.html">Administrative Assistant Training</a></li>
+            <li><a href="resources.html">Additional Resources</a></li>
+        </ul>
+    </nav>
+
+    <section id="introduction">
+        <h2>Introduction to Synergy CPA Group</h2>
+        <p>Learn about our mission, values, and the industries we serve.</p>
+        <p><a href="team.html">Meet the Team</a> | <a href="culture.html">Our Culture</a></p>
+    </section>
+
+    <section id="resources">
+        <h2>Additional Resources</h2>
+        <ul>
+            <li><a href="handbook.pdf">Employee Handbook</a></li>
+            <li><a href="calendar.html">Company Calendar</a></li>
+            <li><a href="contact.html">Support & Contact Information</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Synergy CPA Group. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
