@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Using Google Suite | Synergy CPA Group</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Using Google Suite</h1>
+        <p>A basic guide to using Gmail, Google Drive, and Google Calendar at Synergy CPA Group.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="staff-resources.html">Staff Resources</a></li>
+            <li><a href="google-suite-tutorial.html">Google Suite Tutorial</a></li>
+            <li><a href="qount-training.html">Qount Training</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <h2>Gmail</h2>
+        <p>Learn how to send and organize emails using Gmail.</p>
+        <ol>
+            <li>Login to your Google account.</li>
+            <li>Click on the Gmail icon to access your inbox.</li>
+            <li>To send an email, click on "Compose," enter the recipient's email, subject, and message, then click "Send."</li>
+            <li>Use labels and folders to organize your emails efficiently.</li>
+        </ol>
+    </section>
+
+    <section>
+        <h2>Google Drive</h2>
+        <p>Store and share documents securely using Google Drive.</p>
+        <ol>
+            <li>Login to your Google account and click on the Drive icon.</li>
+            <li>To upload files, click on "New" and select "File upload" or "Folder upload."</li>
+            <li>Organize files into folders and use shared drives for team collaboration.</li>
+        </ol>
+    </section>
+
+    <section>
+        <h2>Google Calendar</h2>
+        <p>Manage your schedule and meetings using Google Calendar.</p>
+        <ol>
+            <li>Login to your Google account and click on the Calendar icon.</li>
+            <li>To create a new event, click on the date and time, enter the event details, and invite attendees.</li>
+            <li>Set reminders and recurring events to stay organized.</li>
+        </ol>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Synergy CPA Group. All rights reserved.</p>
+    </footer>
+</body>
+</html>
