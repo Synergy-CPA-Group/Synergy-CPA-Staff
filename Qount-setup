@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Setting Up Your Qount Account | Synergy CPA Group</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Setting Up Your Qount Account</h1>
+        <p>Get started with Qount by setting up your account and personalizing your workspace.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="qount-training.html">Qount Training</a></li>
+            <li><a href="qount-setup.html">Setting Up Your Qount Account</a></li>
+            <li><a href="qount-projects.html">Managing Projects and Tasks</a></li>
+            <li><a href="qount-client-portal.html">Client Portal and Communication</a></li>
+            <li><a href="qount-invoicing.html">Invoicing and Payments</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <h2>Account Setup Guide</h2>
+        <p>Follow these steps to create your Qount account and configure your settings for optimal performance:</p>
+        <ol>
+            <li>Visit the Qount login page.</li>
+            <li>Enter your company-provided credentials.</li>
+            <li>Set up your profile and security settings.</li>
+            <li>Customize your dashboard to match your workflow.</li>
+            <li>Explore the basic features to familiarize yourself with the interface.</li>
+        </ol>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Synergy CPA Group. All rights reserved.</p>
+    </footer>
+</body>
+</html>
