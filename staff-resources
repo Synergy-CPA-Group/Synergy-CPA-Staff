@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Staff Resources | Synergy CPA Group</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Staff Resources</h1>
+        <p>Your go-to hub for resources, templates, software access, and tutorials.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="qount-training.html">Qount Training</a></li>
+            <li><a href="staff-resources.html">Staff Resources</a></li>
+            <li><a href="qount-support.html">Support</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <h2>Resource Templates</h2>
+        <ul>
+            <li><a href="templates/client-engagement-letter.docx">Client Engagement Letter Template (Word)</a></li>
+            <li><a href="templates/invoice-template.xlsx">Invoice Template (Excel)</a></li>
+            <li><a href="templates/tax-prep-checklist.pdf">Tax Preparation Checklist (PDF)</a></li>
+            <li><a href="templates/meeting-minutes-template.docx">Meeting Minutes Template (Word)</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Miscellaneous Information</h2>
+        <ul>
+            <li><a href="employee-handbook.pdf">Employee Handbook (PDF)</a></li>
+            <li><a href="company-policies.html">Company Policies</a></li>
+            <li><a href="holiday-schedule.html">Holiday Schedule</a></li>
+            <li><a href="client-communication-guide.html">Client Communication Guidelines</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Software and Access Instructions</h2>
+        <p>We use a variety of software to streamline our operations. Below is a list of the software we use, along with instructions on how to access and use them.</p>
+        <ul>
+            <li><strong>Qount:</strong> Our primary practice management software. <a href="qount-training.html">Training and Access Instructions</a>.</li>
+            <li><strong>Google Suite:</strong> Email, calendar, and document management. <a href="google-suite-tutorial.html">Basic Google Suite Tutorials</a>.</li>
+            <li><strong>Microsoft Office:</strong> Word, Excel, PowerPoint. Available through your Microsoft 365 account. <a href="https://www.office.com/">Login here</a>.</li>
+            <li><strong>Remote Server Desktop:</strong> Access client files securely from anywhere. <a href="remote-server-access.html">Setup and Access Instructions</a>.</li>
+            <li><strong>Slack:</strong> Internal communication and team collaboration. <a href="https://slack.com/">Login here</a>.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Tutorials</h2>
+        <ul>
+            <li><a href="google-suite-tutorial.html">Using Google Suite (Gmail, Drive, Calendar)</a></li>
+            <li><a href="client-inquiries.html">Responding to Client Inquiries</a></li>
+            <li><a href="windows-update.html">Keeping Your Windows PC Up to Date</a></li>
+            <li><a href="organizing-documents.html">Organizing Document Folders on a PC</a></li>
+            <li><a href="remote-server-access.html">Using the Remote Server Desktop Application</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Synergy CPA Group. All rights reserved.</p>
+    </footer>
+</body>
+</html>
