@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bookkeeper Training | Synergy CPA Group</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bookkeeper Training</h1>
+        <p>Welcome to the Bookkeeper training module.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="senior-tax-associate.html">Senior Tax Associate Training</a></li>
+            <li><a href="bookkeeper.html">Bookkeeper Training</a></li>
+            <li><a href="accounting-manager.html">Accounting Manager Training</a></li>
+            <li><a href="firm-administrator.html">Firm Administrator Training</a></li>
+            <li><a href="payroll-processor.html">Payroll Processor Training</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <h2>Training Overview</h2>
+        <p>This section provides training on managing day-to-day bookkeeping tasks, including maintaining financial records, reconciling accounts, and preparing reports.</p>
+    </section>
+
+    <section>
+        <h2>Modules</h2>
+        <ul>
+            <li><a href="module1.html">Basic Bookkeeping Procedures</a></li>
+            <li><a href="module2.html">Account Reconciliation</a></li>
+            <li><a href="module3.html">Financial Reporting</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Synergy CPA Group. All rights reserved.</p>
+    </footer>
+</body>
+</html>
