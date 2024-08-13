@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Administrative Assistant Training | Synergy CPA Group</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Administrative Assistant Training</h1>
+        <p>Welcome to the Administrative Assistant training module.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="junior-tax-preparer.html">Junior Tax Preparer Training</a></li>
+            <li><a href="client-accountant.html">Client Accountant Training</a></li>
+            <li><a href="administrative-assistant.html">Administrative Assistant Training</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <h2>Training Overview</h2>
+        <p>This section provides detailed training on administrative tasks, client support, and practice management software.</p>
+    </section>
+
+    <section>
+        <h2>Modules</h2>
+        <ul>
+            <li><a href="module1.html">Office Management Basics</a></li>
+            <li><a href="module2.html">Client Support</a></li>
+            <li><a href="module3.html">Software Training</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Synergy CPA Group. All rights reserved.</p>
+    </footer>
+</body>
+</html>
