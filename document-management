@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Organizing Document Folders on a PC | Synergy CPA Group</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Organizing Document Folders on a PC</h1>
+        <p>Tips and best practices for keeping your documents organized on your PC.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="staff-resources.html">Staff Resources</a></li>
+            <li><a href="organizing-documents.html">Organizing Documents</a></li>
+            <li><a href="qount-training.html">Qount Training</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <h2>Best Practices</h2>
+        <p>Follow these best practices to keep your files and folders organized:</p>
+        <ul>
+            <li><strong>Create a Logical Structure:</strong> Organize your folders by client, project, or department.</li>
+            <li><strong>Use Descriptive Names:</strong> Name your folders and files with clear, descriptive titles that make it easy to find them later.</li>
+            <li><strong>Regularly Review and Clean Up:</strong> Set aside time to review your folders and remove or archive outdated files.</li>
+            <li><strong>Back Up Your Files:</strong> Use cloud storage or external drives to back up important documents.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Example Folder Structure</h2>
+        <p>Here is an example of a well-organized folder structure for client documents:</p>
+        <ul>
+            <li>Clients
+                <ul>
+                    <li>Client A
+                        <ul>
+                            <li>Contracts</li>
+                            <li>Invoices</li>
+                            <li>Reports</li>
+                        </ul>
+                    </li>
+                    <li>Client B
+                        <ul>
+                            <li>Contracts</li>
+                            <li>Invoices</li>
+                            <li>Reports</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li>Internal
+                <ul>
+                    <li>HR</li>
+                    <li>Finance</li>
+                    <li>Marketing</li>
+                </ul>
+            </li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Synergy CPA Group. All rights reserved.</p>
+    </footer>
+</body>
+</html>
