@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Invoicing and Payments | Synergy CPA Group</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Invoicing and Payments in Qount</h1>
+        <p>Streamline your invoicing and payment processes using Qount.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="qount-training.html">Qount Training</a></li>
+            <li><a href="qount-setup.html">Setting Up Your Qount Account</a></li>
+            <li><a href="qount-projects.html">Managing Projects and Tasks</a></li>
+            <li><a href="qount-client-portal.html">Client Portal and Communication</a></li>
+            <li><a href="qount-invoicing.html">Invoicing and Payments</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <h2>Invoicing Features</h2>
+        <p>Qount provides a comprehensive set of tools for creating, sending, and managing invoices. Here's how to use them:</p>
+        <ul>
+            <li><strong>Creating Invoices</strong>: Step-by-step guide to generating invoices in Qount.</li>
+            <li><strong>Sending Invoices</strong>: Learn how to send invoices directly to clients through Qount.</li>
+            <li><strong>Tracking Payments</strong>: Monitor the status of payments and manage overdue accounts.</li>
+            <li><strong>Recurring Billing</strong>: Set up recurring invoices for ongoing client engagements.</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Synergy CPA Group. All rights reserved.</p>
+    </footer>
+</body>
+</html>
