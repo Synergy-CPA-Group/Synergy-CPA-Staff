@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Managing Projects and Tasks | Synergy CPA Group</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Managing Projects and Tasks in Qount</h1>
+        <p>Learn how to efficiently manage your projects and tasks using Qount.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="qount-training.html">Qount Training</a></li>
+            <li><a href="qount-setup.html">Setting Up Your Qount Account</a></li>
+            <li><a href="qount-projects.html">Managing Projects and Tasks</a></li>
+            <li><a href="qount-client-portal.html">Client Portal and Communication</a></li>
+            <li><a href="qount-invoicing.html">Invoicing and Payments</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <h2>Project Management Features</h2>
+        <p>Qount provides a robust set of tools for project management. Here's how to use them:</p>
+        <ul>
+            <li><strong>Creating New Projects</strong>: Step-by-step guide to setting up new projects in Qount.</li>
+            <li><strong>Assigning Tasks</strong>: Learn how to assign tasks to team members and track their progress.</li>
+            <li><strong>Tracking Deadlines</strong>: Use the built-in calendar to manage deadlines and milestones.</li>
+            <li><strong>Reporting and Analytics</strong>: Generate reports to analyze project performance.</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Synergy CPA Group. All rights reserved.</p>
+    </footer>
+</body>
+</html>
