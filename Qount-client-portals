@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Client Portal and Communication | Synergy CPA Group</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Client Portal and Communication in Qount</h1>
+        <p>Enhance client communication and collaboration using the Qount Client Portal.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="qount-training.html">Qount Training</a></li>
+            <li><a href="qount-setup.html">Setting Up Your Qount Account</a></li>
+            <li><a href="qount-projects.html">Managing Projects and Tasks</a></li>
+            <li><a href="qount-client-portal.html">Client Portal and Communication</a></li>
+            <li><a href="qount-invoicing.html">Invoicing and Payments</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <h2>Using the Client Portal</h2>
+        <p>The Qount Client Portal is a secure platform for sharing documents, communicating with clients, and tracking project progress.</p>
+        <ul>
+            <li><strong>Document Sharing</strong>: Upload and share important documents with clients securely.</li>
+            <li><strong>Messaging</strong>: Use the built-in messaging feature to communicate with clients directly through Qount.</li>
+            <li><strong>Project Tracking</strong>: Allow clients to view the status of their projects in real-time.</li>
+            <li><strong>Client Feedback</strong>: Collect and manage client feedback through the portal.</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Synergy CPA Group. All rights reserved.</p>
+    </footer>
+</body>
+</html>
