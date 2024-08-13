@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Qount Practice Management Software Training | Synergy CPA Group</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Qount Practice Management Software Training</h1>
+        <p>Master the tools you need to excel at Synergy CPA Group.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="qount-training.html">Qount Training</a></li>
+            <li><a href="senior-tax-associate.html">Senior Tax Associate Training</a></li>
+            <li><a href="bookkeeper.html">Bookkeeper Training</a></li>
+            <li><a href="accounting-manager.html">Accounting Manager Training</a></li>
+            <li><a href="firm-administrator.html">Firm Administrator Training</a></li>
+            <li><a href="payroll-processor.html">Payroll Processor Training</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <h2>Overview of Qount</h2>
+        <p>Qount is our practice management software designed to streamline our accounting and administrative tasks. This section will guide you through using Qount effectively in your role.</p>
+    </section>
+
+    <section>
+        <h2>Tutorials</h2>
+        <ul>
+            <li><a href="qount-setup.html">Setting Up Your Qount Account</a></li>
+            <li><a href="qount-projects.html">Managing Projects and Tasks</a></li>
+            <li><a href="qount-client-portal.html">Client Portal and Communication</a></li>
+            <li><a href="qount-invoicing.html">Invoicing and Payments</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Resources</h2>
+        <ul>
+            <li><a href="qount-user-manual.pdf">Qount User Manual (PDF)</a></li>
+            <li><a href="qount-video-tutorials.html">Video Tutorials</a></li>
+            <li><a href="qount-faq.html">Frequently Asked Questions (FAQ)</a></li>
+            <li><a href="qount-support.html">Qount Support and Contact Information</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Training Modules</h2>
+        <ul>
+            <li><a href="module1.html">Basic Navigation and Dashboard</a></li>
+            <li><a href="module2.html">Advanced Reporting and Analytics</a></li>
+            <li><a href="module3.html">Integrating Qount with Other Tools</a></li>
+            <li><a href="module4.html">Best Practices for Efficiency</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Synergy CPA Group. All rights reserved.</p>
+    </footer>
+</body>
+</html>
