@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Keeping Your Windows PC Up to Date | Synergy CPA Group</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Keeping Your Windows PC Up to Date</h1>
+        <p>Ensure your Windows PC is always up to date with the latest security patches and features.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="staff-resources.html">Staff Resources</a></li>
+            <li><a href="windows-update.html">Windows Updates</a></li>
+            <li><a href="qount-training.html">Qount Training</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <h2>Updating Windows</h2>
+        <p>Follow these steps to keep your Windows PC updated:</p>
+        <ol>
+            <li>Click on the <strong>Start</strong> menu and select <strong>Settings</strong>.</li>
+            <li>Go to <strong>Update & Security</strong> and select <strong>Windows Update</strong>.</li>
+            <li>Click on <strong>Check for updates</strong>. If updates are available, they will begin downloading automatically.</li>
+            <li>Once the updates are downloaded, you may need to restart your computer to complete the installation.</li>
+            <li>Ensure your PC is set to automatically download updates by selecting <strong>Advanced options</strong> and enabling automatic updates.</li>
+        </ol>
+    </section>
+
+    <section>
+        <h2>Why It Matters</h2>
+        <p>Keeping your Windows PC updated ensures that you have the latest security patches, which protect your computer from vulnerabilities. Regular updates also provide the latest features and improvements, helping you work more efficiently.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Synergy CPA Group. All rights reserved.</p>
+    </footer>
+</body>
+</html>
