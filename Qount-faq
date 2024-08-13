@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frequently Asked Questions | Synergy CPA Group</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Frequently Asked Questions about Qount</h1>
+        <p>Find answers to common questions about using Qount at Synergy CPA Group.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="qount-training.html">Qount Training</a></li>
+            <li><a href="qount-setup.html">Setting Up Your Qount Account</a></li>
+            <li><a href="qount-projects.html">Managing Projects and Tasks</a></li>
+            <li><a href="qount-client-portal.html">Client Portal and Communication</a></li>
+            <li><a href="qount-invoicing.html">Invoicing and Payments</a></li>
+            <li><a href="qount-faq.html">FAQ</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <h2>Common Questions</h2>
+        <dl>
+            <dt>How do I reset my Qount password?</dt>
+            <dd>You can reset your password by clicking on "Forgot Password" on the Qount login page. Follow the instructions sent to your email.</dd>
+
+            <dt>How do I add a new client to Qount?</dt>
+            <dd>Go to the Clients section in Qount, click on "Add New Client," and fill in the required details. You can assign projects to the client once added.</dd>
+
+            <dt>Can I integrate Qount with other software we use?</dt>
+            <dd>Yes, Qount supports integration with several third-party applications. Visit the "Integrations" section in Qount to explore available options.</dd>
+
+            <dt>What should I do if I encounter a bug?</dt>
+            <dd>Report any bugs or issues to our IT support team at <a href="mailto:support@synergycpa.com">support@synergycpa.com</a>. Include as much detail as possible to help us resolve the issue quickly.</dd>
+        </dl>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Synergy CPA Group. All rights reserved.</p>
+    </footer>
+</body>
+</html>
